@@ -3,6 +3,8 @@ Pretty useless app iOS. You start it up and it starts recording what you say. Ev
 
 It uses the [react-native-speech-to-text-ios](https://github.com/muhaos/react-native-speech-to-text-ios) library, which uses Siri.
 
+![SomSaadan screenshot](https://github.com/mikaello/SomSaadan/blob/master/SomSaadan-screenshot.png)
+
 # Run
 
 * Clone this repo
